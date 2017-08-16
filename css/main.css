@@ -1,0 +1,211 @@
+ul{
+    background-color: black;
+}
+li{
+    display: inline-block;
+    padding: 20px;
+    list-style: none;
+}
+
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px;
+}
+a:hover{
+    color: green;
+}
+span{
+    color: red;
+    margin: 0 100px;
+}
+
+/*---ejercicio de colores*/
+
+.clase {
+    background-color: #FFFD95; 
+    height: 150px; 
+}
+.claseH3 {
+    background-color: #FF3AD8;
+    height: 50px;
+}
+
+.clase11 {
+    background-color: #FFFF35;
+    height: 70px;
+    width: 250px;
+    position: absolute;
+    top: 300px;
+    bottom: 0px;    
+}
+.claseH31 {
+    background-color: #FF3AD8;
+    height: 70px;
+    width: 250px;
+    position: relative;
+    top: 75px;
+}
+.claseH32 {
+    background-color: #FFFF35;
+    height: 70px;
+    width: 250px;
+    position: relative;
+    top: 70px;
+}
+
+
+.clase21 {
+    display: block;
+    padding: 0px;
+    background-color: #FFFF35;
+    height: 50px;
+    width: 260px;
+    position: absolute;
+    top: 600px;
+    bottom: 200px;
+}
+
+.claseH33 {
+    background-color: #FF3AD8;
+    position: absolute;
+    top: 600px;
+    bottom: px;
+    right: 0px;
+    left: 280px;
+    height: 50px;
+    width: 35px;
+    
+}
+.claseH{
+    background-color: #FFFF35;
+    position: absolute;
+    top: 600px;
+    bottom: 0px;
+    right: 0px;
+    left: 330px;
+    height: 50px;
+    width: 260px;
+}
+
+.clase31 {
+    display: block;
+    padding: 0px;
+    background-color: #FFFF35;
+    height: 70px;
+    width: 260px;
+    position: absolute;
+    top: 700px;
+    bottom: 200px;
+}
+
+.claseH43 {
+    background-color: #FF3AD8;
+    position: absolute;
+    top: 700px;
+    bottom: px;
+    right: 0px;
+    left: 280px;
+    height: 70px;
+    width: 260px;
+    
+}
+.claseH5{
+    background-color: #FFFF35;
+    position: absolute;
+    top: 700px;
+    bottom: 0px;
+    right: 0px;
+    left: 550px;
+    height: 70px;
+    width: 260px;
+}
+
+/* colores de cajitas plomas */
+.contenedor {
+   
+    border-color: black;
+}
+
+.cajita {
+    width: 100px;
+    height: 100px;
+} 
+#plomo {
+    background-color: grey;
+    position: absolute;
+    top: 920px;
+    right: 700px;
+}
+
+.cajita1 {
+   width: 400px;
+    height: 130px;
+}
+#plomo1 {
+    background-color: grey;
+    position: absolute;
+    top: 1050px;
+    right: 400px;
+}
+.cajita2 {
+    width: 100px;
+    height: 100px;
+}
+#plomo2 {
+    background-color: dimgray;
+    position: absolute;
+    top: 1065px;
+    right: 680px;
+}
+.cajita3 {
+    width: 100px;
+    height: 100px;
+}
+#plomo3 {
+    background-color: dimgray;
+    position: absolute;
+    top: 1065px;
+    right: 554px;
+}
+.cajita4 {
+    width: 100px;
+    height: 100px;
+}
+#plomo4 {
+    background-color: dimgray;
+    position: absolute;
+    top: 1065px;
+    right: 425px;
+}
+
+.cajita5 {
+    width: 100px;
+    height: 100px;
+}
+#plomo5 {
+    background-color: grey;
+    position: absolute;
+    top: 1210px;
+    right: 700px;
+}
+.cajita6 {
+    width: 100px;
+    height: 100px;
+}
+#plomo6 {
+    background-color: grey;
+    position: absolute;
+    top: 1210px;
+    right: 580px;
+}
+.cajita7 {
+    width: 100px;
+    height: 100px;
+}
+#plomo7 {
+    background-color: grey;
+    position: absolute;
+    top: 1330px;
+    right: 700px;
+}
